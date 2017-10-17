@@ -6,6 +6,10 @@
 	font: inherit;
 	vertical-align: baseline;
   }
+  
+  title {
+	  font-size: 16;
+  }
 
 body {
 	line-height: 1;
